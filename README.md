@@ -51,5 +51,8 @@ Não esqueça também de setar sua string de conexão com o banco de dados.
   </connectionStrings>
 ```
 
-# OBS:
+# Scripts:
+O script para criar a tabela no banco de dados se encontra na pasta Doc do projeto.
+
+OBS:
 Lembrando que este projeto não segue nenhum padrão de arquitetura, logo aconselho tirar o armazenamento de dentro da classe e jogar dentro de um repositório.
