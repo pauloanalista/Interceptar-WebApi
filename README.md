@@ -56,3 +56,12 @@ O script para criar a tabela no banco de dados se encontra na pasta Doc do proje
 
 OBS:
 Lembrando que este projeto não segue nenhum padrão de arquitetura, logo aconselho tirar o armazenamento de dentro da classe e jogar dentro de um repositório.
+
+
+# VEJA TAMBÉM
+## Cursos baratos!
+- [Meus cursos](https://olha.la/udemy)
+
+## Novidades, cupons de descontos e cursos gratuitos
+https://olha.la/ilovecode-receber-cupons-novidades
+
